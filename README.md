@@ -1,1 +1,4 @@
 # SimpleNumericalCodes
+
+
+* Bisection Method
