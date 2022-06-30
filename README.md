@@ -1,4 +1,4 @@
 # SimpleNumericalCodes
 
 
-* Bisection Method
+* Bisection Method using Recursive
